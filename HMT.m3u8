@@ -25,6 +25,10 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-id="HKSTV.hk" tvg-logo="https://i.imgur.com/UhwlxwL.png" group-title="General",HKSTV
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视频道",凤凰资讯
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 #EXTINF:-1 tvg-id="TDMOuMun.mo" tvg-logo="https://i.imgur.com/qDI3aMp.png" group-title="",TDM Ou Mun
 http://61.244.22.4/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 ,澳门有线 CH1
